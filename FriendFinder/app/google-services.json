@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "891196652476",
+    "firebase_url": "https://friendfinderakash-f0240.firebaseio.com",
+    "project_id": "friendfinderakash-f0240",
+    "storage_bucket": "friendfinderakash-f0240.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891196652476:android:4be821d853676932",
+        "android_client_info": {
+          "package_name": "com.example.friendfinderakash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891196652476-9179e6rjnc719h367ncvmhtue94jl2fl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.friendfinderakash",
+            "certificate_hash": "0409cda79f825141c3794a5d0059aaed38035f8c"
+          }
+        },
+        {
+          "client_id": "891196652476-saijuhk2ibo7f7phrgf5jf2ncsslp9fc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiuQmUYKdPAZjArzM4t8910RX7tM1EGDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891196652476-saijuhk2ibo7f7phrgf5jf2ncsslp9fc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
